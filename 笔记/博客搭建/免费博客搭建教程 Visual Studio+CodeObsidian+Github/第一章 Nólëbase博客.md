@@ -5,7 +5,7 @@
 
 本仓库从[nolebase](https://github.com/nolebase/nolebase/) 精简而来，方便做 template，用于初始化仓库
 
-github仓库 https://github.com/WD09KL/klsp/tree/N%C3%B3l%C3%ABbase
+github仓库 https://github.com/WD09KL/klsp
 演示网站： https://klsp.vercel.app/
 
 做了如下改动
