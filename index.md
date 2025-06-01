@@ -16,7 +16,8 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /笔记/index
-    - theme: alt
 
+
+---
 
 <HomePage />
