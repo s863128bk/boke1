@@ -132,10 +132,7 @@ export default defineConfig({
       pattern: `${githubRepoLink}/tree/main/:path`,
       text: '编辑本页面',
     },
-    socialLinks: [
-      { icon: 'github', link: githubRepoLink },
-      { icon: 'discord', link: discordLink },
-    ],
+  
    
     search: {
       provider: 'local',
