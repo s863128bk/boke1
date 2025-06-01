@@ -17,7 +17,18 @@ hero:
       text: 开始阅读
       link: /笔记/index
 
-
 ---
+
+<style>
+/* 只针对首页 hero 区域的“开始阅读”按钮 */
+.VPHomeHero .VPButton.brand {
+  font-size: 2rem;
+  padding: 1.2em 2.5em;
+}
+.VPHomeHero .VPHomeHeroActions {
+  justify-content: center;
+  display: flex;
+}
+</style>
 
 <HomePage />
