@@ -136,11 +136,7 @@ export default defineConfig({
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
     ],
-    footer: {
-      message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
-      copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
-    },
+   
     search: {
       provider: 'local',
       options: {
