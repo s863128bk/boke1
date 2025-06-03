@@ -2,7 +2,7 @@
 
 本仓库从[nolebase](https://github.com/nolebase/nolebase/) 精简而来，用于初始化仓库
 
-演示网站： https://klsp.vercel.app
+演示网站：https://boke-wheat.vercel.app
 
 
 # 基于 Vercel + GitHub 的博客部署教程（从 Fork 到上线全流程）
