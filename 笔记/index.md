@@ -5,6 +5,10 @@
 欢迎来到小音和猫猫的知识库 [Nólëbase](https://nolebase.ayaka.io)，这里是 📒 笔记分区
 
 1  https://github.com/s863128bk/boke1/blob/main/%E7%AC%94%E8%AE%B0/2.md
+2   https://s863128bk.github.io/d86312bk.github.io/
+https://github.com/s863128bk/d86312bk.github.io/issues/50   怎样的人
+九个TED演讲，让我印象深刻
+https://github.com/s863128bk/d86312bk.github.io/issues/26
 
 ## 想要自己部署和在本地启动强大的 Nólëbase 知识库，或者自己拥有一份？
 
